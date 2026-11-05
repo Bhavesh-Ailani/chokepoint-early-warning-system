@@ -1,0 +1,5 @@
+FN (missed shock): the shock hits and you weren’t prepared. You pay the higher landed cost; in your data, flows that shock see about 6 extra points of price increase over 3 months. You may also run short of stock, which can stop production for energy or fertiliser inputs.
+
+FP (false alarm): you prepared for a shock that didn’t happen. You paid to hold some extra safety stock for a while, about 1.5–2% of the flow’s value, and the stock still gets used later.
+
+So FN is roughly 3 to 10 times more expensive than FP, which is why FN is set higher.

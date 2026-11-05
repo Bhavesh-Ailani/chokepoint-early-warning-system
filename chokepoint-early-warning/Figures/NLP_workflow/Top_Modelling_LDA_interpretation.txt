@@ -1,0 +1,6 @@
+Decision: k = 5
+Coherence: k=8 is highest, but only 0.008 above k=5. That gap is within LDA’s run-to-run variation, so it is not a meaningful gain.
+Perplexity: it rises with k, which favours smaller models. Lower log perplexity is better.
+Readability: k=5 is the largest k where every topic is distinct and interpretable, and it serves the buyer with fewer, clearer signals.
+
+For the report: “k was selected on coherence and interpretability; k=8 gained only 0.008 coherence at the cost of duplicated and generic topics.”
